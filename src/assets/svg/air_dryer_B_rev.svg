@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="25" height="25"/>
+  </defs>
+  <rect y="10.407" width="972.648" height="440.159" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.763;" x="12.119"/>
+  <g transform="matrix(0.826913, 0, 0, 0.698383, 74.03907, 53.375034)">
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(243, 243, 243);" cx="315" cy="183.068" rx="45" ry="45"/>
+    <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: rgb(243, 243, 243);" cx="315" cy="449.112" rx="45" ry="45"/>
+    <rect x="270" y="180" width="90" height="270" style="stroke: rgb(0, 0, 0); fill: rgb(243, 243, 243);"/>
+  </g>
+  <g transform="matrix(0.826913, 0, 0, 0.698383, 500.726135, 53.375034)">
+    <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(243, 243, 243);" cx="315" cy="183.068" rx="45" ry="45"/>
+    <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: rgb(243, 243, 243);" cx="315" cy="449.112" rx="45" ry="45"/>
+    <rect x="270" y="180" width="90" height="270" style="stroke: rgb(0, 0, 0); fill: rgb(243, 243, 243);"/>
+  </g>
+  <rect x="371.728" y="182.483" width="8.269" height="6.984" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 0.763;"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-box: fill-box; transform-origin: 50% 50%;" d="M 551.111 -16.154 L 551.202 389.079" transform="matrix(0, -1.184039, 0.844567, 0, 0.000036, 0.000096)"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932;" d="M 479.043 149.568 L 495.765 149.568 L 495.765 166.035 L 479.043 166.035 L 479.043 149.568 Z"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-origin: 598.485px 226.003px;" d="M 478.737 156.666 L 495.763 156.666"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932;" d="M 465.169 193.204 L 511.13 179.759 L 511.13 193.204 L 465.169 179.759 L 465.169 193.204 Z"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 0.932;" d="M 487.934 186.514 L 487.934 157.095"/>
+  <rect x="715.724" y="182.138" width="8.269" height="6.984" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 0.763;"/>
+  <g transform="matrix(0.826913, 0, 0, 0.698383, -2.11712, 3.138935)">
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1.222; transform-origin: 660.838px 251.447px;" d="M 660.846 262.894 L 660.846 240"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1.222; transform-origin: 490.992px 230.229px;" d="M 646.097 240.002 L 676.271 240.002"/>
+  </g>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 443.701px 171.141px;" d="M 443.542 155.983 L 443.859 186.298"/>
+  <g>
+    <rect x="622.282" y="251.383" width="35.093" height="2.463" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(243, 243, 243);"/>
+    <g>
+      <rect x="625.861" y="254.048" width="28.143" height="37.69" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(243, 243, 243);"/>
+      <rect x="625.711" y="248.983" width="28.143" height="2.361" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(243, 243, 243);"/>
+      <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(243, 243, 243);" cx="640.016" cy="271.807" rx="9.717" ry="7.689"/>
+    </g>
+  </g>
+  <rect x="461.861" y="211.956" width="62.018" height="9.968" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 9px;" x="561" y="309.954" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Heater Temp SP</text>
+  <rect x="461.861" y="221.924" width="62.018" height="17.46" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="609.476" y="330.521" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">°F</text>
+  <rect x="461.424" y="242.149" width="62.018" height="9.968" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 9px; stroke-width: 1;" x="567.471" y="352.188" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Heater Temp</text>
+  <rect x="461.424" y="252.117" width="62.018" height="17.46" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="608.947" y="373.755" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">°F</text>
+  <rect x="535.456" y="242.272" width="62.018" height="9.968" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 9px; stroke-width: 1;" x="659" y="352.363" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Heater Temp</text>
+  <rect x="535.456" y="252.24" width="62.018" height="17.46" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="698.476" y="373.93" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">°C</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1; font-weight: bold;" x="748" y="347.676" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">HEATER</text>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 678.512px 258.693px;" d="M 678.467 229.321 L 678.558 288.066" transform="matrix(0, 1.184039, -0.844567, 0, -0.000022, -0.000005)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 703.162px 309.166px;" d="M 703.004 258.049 L 703.32 360.282"/>
+  <rect x="371.639" y="358.212" width="8.269" height="6.984" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 0.763;"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 692.133px 361.256px;" d="M 692.126 397.022 L 692.14 325.49" transform="matrix(0, -1.184039, 0.844567, 0, 0.000011, 0.00005)"/>
+  <rect x="715.635" y="357.867" width="8.269" height="6.984" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 0.763;"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 798px 493.641px;" d="M 661.975 334.874 L 661.975 360.911"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 552.59px 334.782px;" d="M 552.508 244.429 L 552.665 425.136" transform="matrix(0, 1.184039, -0.844567, 0, -0.000058, 0.000018)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 601.786px 283.137px;" d="M 601.741 312.51 L 601.832 253.764" transform="matrix(0, 1.184039, -0.844567, 0, -0.000063, 0.000028)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 577.266px 308.682px;" d="M 577.237 334.87 L 577.295 282.492" transform="matrix(-1, 0, 0, -1, -0.000041, -0.00003)"/>
+  <g transform="matrix(-0.491177, 0, 0, 0.523644, 491.13504, 29.785091)" style="">
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 49.894 582.89 L 30 582.89"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 98.289 582.89 L 118.071 582.89"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 49.894 600 L 49.894 565.78 L 98.289 600 L 98.289 565.78"/>
+    <circle style="fill: rgb(0, 0, 0); stroke: rgb(76, 76, 76); stroke-width: 2;" cx="1094.77" cy="561.359" r="39" transform="matrix(0.17796, 0, 0, 0.155258, -141.765747, 481.674255)"/>
+  </g>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 406.945px 361.188px;" d="M 406.92 329.322 L 406.969 393.054" transform="matrix(0, 1.184039, -0.844567, 0, 0.00001, 0.00007)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 521.472px 494.156px;" d="M 433.307 334.116 L 433.308 362.382"/>
+  <g transform="matrix(0.491177, 0, 0, 0.523644, 419.010895, 56.68491)" style="">
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 49.894 582.89 L 30 582.89"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 98.289 582.89 L 118.071 582.89"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 49.894 600 L 49.894 565.78 L 98.289 600 L 98.289 565.78"/>
+    <circle style="fill: rgb(0, 0, 0); stroke: rgb(76, 76, 76); stroke-width: 2;" cx="1094.77" cy="561.359" r="39" transform="matrix(0.17796, 0, 0, 0.155258, -141.765747, 481.674255)"/>
+  </g>
+  <g transform="matrix(0.491177, 0, 0, 0.523644, 603.674133, 29.692444)" style="">
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 49.894 582.89 L 30 582.89"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 98.289 582.89 L 118.071 582.89"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 49.894 600 L 49.894 565.78 L 98.289 600 L 98.289 565.78"/>
+    <circle style="fill: rgb(0, 0, 0); stroke: rgb(76, 76, 76); stroke-width: 2;" cx="1094.77" cy="561.359" r="39" transform="matrix(0.17796, 0, 0, 0.155258, -141.765747, 481.674255)"/>
+  </g>
+  <g transform="matrix(-0.491177, 0, 0, 0.523644, 677.00824, 56.209183)" style="">
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 49.894 582.89 L 30 582.89"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 98.289 582.89 L 118.071 582.89"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 49.894 600 L 49.894 565.78 L 98.289 600 L 98.289 565.78"/>
+    <circle style="fill: rgb(0, 0, 0); stroke: rgb(76, 76, 76); stroke-width: 2;" cx="1094.77" cy="561.359" r="39" transform="matrix(0.17796, 0, 0, 0.155258, -141.765747, 481.674255)"/>
+  </g>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 548.454px 361.62px;" d="M 548.372 271.267 L 548.529 451.974" transform="matrix(0, 1.184039, -0.844567, 0, 0.00006, -0.000036)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 578.392px 383.459px;" d="M 578.329 405.407 L 578.456 361.51" transform="matrix(-1, 0, 0, -1, -0.000055, -0.000003)"/>
+  <g transform="matrix(0.826913, 0, 0, -0.698383, 0.257882, 545.083069)" style="">
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1.222; transform-origin: 660.838px 251.447px;" d="M 660.846 262.894 L 660.846 240"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1.222; transform-origin: 490.992px 230.229px;" d="M 646.097 240.002 L 676.271 240.002"/>
+  </g>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1.525; transform-origin: 704.638px 576.106px;" d="M 621.828 405.49 L 634.485 405.49"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1.525; transform-origin: 584.749px 405.496px;" d="M 591.042 405.497 L 578.456 405.498"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 1.525; transform-origin: 606.436px 405.492px;" d="M 591.042 398.364 L 591.042 412.623 L 621.831 398.364 L 621.831 412.623 L 591.042 398.364 Z"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1.525; transform-origin: 599.432px 413.831px;" d="M 592.464 422.169 L 592.464 405.493 L 606.401 405.493" transform="matrix(-1, 0, 0, -1, -0.000078, -0.000049)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 648.376px 405.65px;" d="M 648.369 435.621 L 648.383 375.678" transform="matrix(0, -1.184039, 0.844567, 0, 0.000012, -0.00004)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 673.882px 406.067px;" d="M 673.869 398.172 L 673.893 413.963" transform="matrix(-1, 0, 0, -1, -0.000092, -0.000022)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 692.821px 404.67px;" d="M 692.786 392.381 L 692.854 416.962" transform="matrix(0, 1.184039, -0.844567, 0, 0.000001, -0.000097)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 703.406px 383.726px;" d="M 703.396 405.334 L 703.415 362.116"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 681.807px 406.051px;" d="M 681.793 398.157 L 681.818 413.948" transform="matrix(-1, 0, 0, -1, 0.000055, 0.000046)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 677.987px 397.326px;" d="M 677.977 403.041 L 677.995 391.61"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 677.933px 411.78px;" d="M 677.924 417.977 L 677.941 405.582"/>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="650.811" cy="385.504" rx="10.336" ry="8.73"/>
+  <path d="M -100.83 -89.11 H -94.198 L -94.198 -91.071 L -85.458 -88.012 L -94.198 -84.954 L -94.198 -86.915 H -100.83 V -89.11 Z" bx:shape="arrow -100.83 -91.071 15.372 6.118 2.195 8.74 0 1@7c71f9c2" style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%; stroke-width: 0.763;" transform="matrix(0.000343, -1, 1, 0.000266, 743.834961, 473.853179)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 651.034px 399.693px;" d="M 651.025 405.408 L 651.042 393.977"/>
+  <path d="M -546.834 -405.87 L -543.785 -398.138 L -550.56 -398.138 L -546.834 -405.87 Z" bx:shape="triangle -550.56 -405.87 6.775 7.732 0.55 0 1@11f2e68a" style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%; stroke-width: 0.763;" transform="matrix(-1, 0, 0, -1, 1094.344971, 804.007996)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 546.953px 390.056px;" d="M 546.94 382.161 L 546.965 397.952" transform="matrix(-1, 0, 0, -1, -0.000013, 0.000046)"/>
+  <rect x="427.269" y="377.282" width="62.018" height="9.968" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 9px; stroke-width: 1;" x="532.167" y="545.681" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Dew Temp</text>
+  <rect x="427.269" y="387.25" width="62.018" height="17.46" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="567.643" y="567.248" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">°C</text>
+  <rect x="427.27" y="412.201" width="62.018" height="9.968" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 9px; stroke-width: 1;" x="532.168" y="595.681" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Dew Temp</text>
+  <rect x="427.27" y="422.169" width="62.018" height="17.46" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="567.644" y="617.248" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">°F</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 9px; stroke-width: 1; text-anchor: middle; font-weight: bolder;" x="602.463" y="573.003" transform="matrix(0.826913, 0, 0, 0.698383, 24.207672, -7.192523)">AIR<tspan x="602.4630126953125" dy="1em">​</tspan>OUTLET</text>
+  <g transform="matrix(-0.387768, 0, 0, -0.200385, 743.634644, -199.991287)" style="transform-origin: 72.2405px 412.5px;">
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 53.913 425 L 53.913 400 L 90.568 425 L 90.568 400"/>
+  </g>
+  <g style="transform-origin: 227.882px 539.536px;" transform="matrix(0, 0.626201, -0.563979, 0, 588.703491, -326.882202)">
+    <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 212.224 550 L 243.484 529.073 L 243.484 550 L 212.224 529.073 L 212.224 550 Z"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 212.224 539.499 L 200 539.499"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 243.484 539.499 L 255.764 539.499"/>
+  </g>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 807.67px 264.838px;" d="M 807.657 276.289 L 807.693 253.387" transform="matrix(0, -1.184039, 0.844567, 0, 0.000035, 0.000091)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 816.592px 247.829px;" d="M 816.56 230.114 L 816.655 265.543" transform="matrix(-1, 0, 0, -1, 0.000101, 0.000009)"/>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="840.215" cy="233.608" rx="10.336" ry="8.73"/>
+  <path d="M -100.83 -89.11 H -94.198 L -94.198 -91.071 L -85.458 -88.012 L -94.198 -84.954 L -94.198 -86.915 H -100.83 V -89.11 Z" bx:shape="arrow -100.83 -91.071 15.372 6.118 2.195 8.74 0 1@7c71f9c2" style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: -93.144px -88.013px;" transform="matrix(0.000343, -1, 1, 0.000266, 933.237163, 321.956912)"/>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="839.876" cy="254.847" rx="10.336" ry="8.73"/>
+  <path d="M -100.83 -89.11 H -94.198 L -94.198 -91.071 L -85.458 -88.012 L -94.198 -84.954 L -94.198 -86.915 H -100.83 V -89.11 Z" bx:shape="arrow -100.83 -91.071 15.372 6.118 2.195 8.74 0 1@7c71f9c2" style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: -93.144px -88.013px;" transform="matrix(0.000343, -1, 1, 0.000266, 932.895305, 343.197025)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 823.288px 234.151px;" d="M 823.282 242.163 L 823.294 226.137" transform="matrix(0, 1.184039, -0.844567, 0, -0.000084, 0.000084)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 822.751px 254.694px;" d="M 822.745 262.706 L 822.763 246.68" transform="matrix(0, 1.184039, -0.844567, 0, -0.00002, 0.000032)"/>
+  <path d="M -100.83 -89.11 H -94.198 L -94.198 -91.071 L -85.458 -88.012 L -94.198 -84.954 L -94.198 -86.915 H -100.83 V -89.11 Z" bx:shape="arrow -100.83 -91.071 15.372 6.118 2.195 8.74 0 1@7c71f9c2" style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: -93.144px -88.013px;" transform="matrix(0.000343, -1, 1, 0.000266, 909.661358, 277.142276)"/>
+  <g transform="matrix(0.387768, 0, 0, -0.200385, 207.60318, -199.315506)" style="transform-origin: 72.2406px 412.5px;">
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 53.913 425 L 53.913 400 L 90.568 425 L 90.568 400"/>
+  </g>
+  <g style="transform-origin: 227.882px 539.536px;" transform="matrix(0, 0.626201, 0.563979, 0, 51.251434, -326.206329)">
+    <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 212.224 550 L 243.484 529.073 L 243.484 550 L 212.224 529.073 L 212.224 550 Z"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 212.224 539.499 L 200 539.499"/>
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 243.484 539.499 L 255.764 539.499"/>
+  </g>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 288.049px 265.514px;" d="M 288.037 254.064 L 288.073 276.966" transform="matrix(0, -1.184039, 0.844567, 0, -0.000019, 0.000042)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 279.127px 248.505px;" d="M 279.095 266.219 L 279.19 230.79"/>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="-255.5" cy="234.284" rx="10.336" ry="8.73" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+  <path d="M 100.83 93.032 H 107.463 L 107.463 91.071 L 116.203 94.13 L 107.463 97.189 L 107.463 95.228 H 100.83 V 93.032 Z" bx:shape="arrow 100.83 91.071 15.372 6.118 2.195 8.74 0 1@116e726f" style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 108.517px 94.13px;" transform="matrix(-0.000343, -1, -1, 0.000266, 147.108874, 140.490195)"/>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="-255.84" cy="255.523" rx="10.336" ry="8.73" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+  <path d="M 100.83 93.032 H 107.463 L 107.463 91.071 L 116.203 94.13 L 107.463 97.189 L 107.463 95.228 H 100.83 V 93.032 Z" bx:shape="arrow 100.83 91.071 15.372 6.118 2.195 8.74 0 1@116e726f" style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 108.517px 94.13px;" transform="matrix(-0.000343, -1, -1, 0.000266, 147.450457, 161.730307)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 272.43px 234.827px;" d="M 272.424 226.815 L 272.436 242.841" transform="matrix(0, 1.184039, -0.844567, 0, 0.000012, -0.000015)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 272.968px 255.37px;" d="M 272.962 247.358 L 272.98 263.384" transform="matrix(0, 1.184039, -0.844567, 0, -0.000011, 0.000034)"/>
+  <path d="M 100.83 93.032 H 107.463 L 107.463 91.071 L 116.203 94.13 L 107.463 97.189 L 107.463 95.228 H 100.83 V 93.032 Z" bx:shape="arrow 100.83 91.071 15.372 6.118 2.195 8.74 0 1@116e726f" style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 108.517px 94.13px;" transform="matrix(-0.000343, -1, -1, 0.000266, 170.68468, 95.675559)"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 9px; stroke-width: 1; text-anchor: middle; font-weight: bolder;" x="602.463" y="573.003" transform="matrix(0.826913, 0, 0, 0.698383, 47.595016, -269.416931)">AIR<tspan x="602.4630126953125" dy="1em">​</tspan>INLET</text>
+  <path d="M -544.544 -165.9 L -541.495 -158.168 L -548.27 -158.168 L -544.544 -165.9 Z" bx:shape="triangle -548.27 -165.9 6.775 7.732 0.55 0 1@12a1c9af" style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: -544.876px -162.033px;" transform="matrix(-1, 0, 0, -1, 1089.751221, 324.066467)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 544.653px 150.086px;" d="M 544.639 142.192 L 544.664 157.983" transform="matrix(-1, 0, 0, -1, -0.000086, 0.000018)"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-box: fill-box; transform-origin: 50% 50%;" d="M 404.306 125.878 L 416.234 125.878 L 416.234 148.965 L 404.306 148.965 L 404.306 125.878 Z" transform="matrix(0, -1.184039, 0.844567, 0, -0.000039, -0.000007)"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-origin: 498.152px 180.679px;" d="M 408.92 144.738 L 408.92 130.357"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-box: fill-box; transform-origin: 50% 50%;" d="M 427.836 146.217 L 460.619 127.367 L 460.619 146.217 L 427.836 127.367 L 427.836 146.217 Z" transform="matrix(0, -1.184039, 0.844567, 0, 0.000009, 0.000009)"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-box: fill-box; transform-origin: 50% 50%;" d="M 426.851 157.594 L 426.851 116.351" transform="matrix(0, -1.18404, 0.844567, 0, -0.000439, -0.000081)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 647.335px 171.745px;" d="M 647.177 186.902 L 647.494 156.588" transform="matrix(-1, 0, 0, -1, -0.000021, -0.000027)"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-origin: 680.766px 138.025px;" d="M 674.802 149.569 L 686.73 149.569 L 686.73 126.482 L 674.802 126.482 L 674.802 149.569 Z" transform="matrix(0, -1.184039, 0.844567, 0, 0.000004, 0.000043)"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-origin: 897.148px 118.148px;" d="M 682.129 145.344 L 682.129 130.964"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-origin: 646.809px 137.396px;" d="M 630.417 127.971 L 663.201 146.821 L 663.201 127.971 L 630.417 146.821 L 630.417 127.971 Z" transform="matrix(0, -1.184039, 0.844567, 0, -0.000004, -0.000033)"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-origin: 664.185px 137.577px;" d="M 664.185 116.956 L 664.186 158.199" transform="matrix(0, -1.184039, 0.844567, 0, -0.000026, -0.000041)"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932;" d="M 590.855 148.509 L 607.577 148.509 L 607.577 164.977 L 590.855 164.977 L 590.855 148.509 Z"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 0.932; transform-origin: 733.701px 224.488px;" d="M 590.555 155.608 L 607.58 155.608"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932;" d="M 576.981 192.146 L 622.941 178.701 L 622.941 192.146 L 576.981 178.701 L 576.981 192.146 Z"/>
+  <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 0.932;" d="M 599.746 185.455 L 599.746 156.037"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932;" d="M 640.474 90.952 L 652.913 90.952 L 652.913 107.419 L 640.474 107.419 L 640.474 90.952 Z"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 646.819px 113.115px;" d="M 646.799 107.896 L 646.839 118.334"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 650.466px 95.308px;" d="M 650.455 97.624 L 650.476 92.992" transform="matrix(0, -1.184039, 0.844567, 0, 0.000035, 0.00002)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 642.857px 102.712px;" d="M 642.846 105.028 L 642.867 100.396" transform="matrix(0, -1.184039, 0.844567, 0, 0.000009, 0.000035)"/>
+  <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 0.932;" d="M 437.929 90.244 L 450.367 90.244 L 450.367 106.712 L 437.929 106.712 L 437.929 90.244 Z"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1.525; transform-origin: 444.274px 112.408px;" d="M 444.253 107.189 L 444.293 117.627"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 447.919px 94.601px;" d="M 447.909 96.917 L 447.93 92.285" transform="matrix(0, -1.184039, 0.844567, 0, -0.000022, 0.000005)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 0.763; transform-origin: 440.31px 102.004px;" d="M 440.3 104.321 L 440.32 99.689" transform="matrix(0, -1.184039, 0.844567, 0, -0.000028, -0.000004)"/>
+  <rect x="43.443" y="280.75" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; stroke-width: 1; font-weight: bold;" x="53.987" y="423.091" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">RUN HOUR</text>
+  <rect x="126.135" y="280.75" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="225" y="424.066" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">H</text>
+  <rect x="43.443" y="308.191" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 13px; stroke-width: 1; font-weight: bold;" x="53.987" y="461.382" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">PURGE HOUR</text>
+  <rect x="126.135" y="308.191" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="225" y="463.357" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">H</text>
+  <rect x="43.443" y="333.129" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 12px; font-weight: 700; white-space: pre;" x="53.987" y="498.091" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">HEATER HOUR</text>
+  <rect x="126.135" y="333.129" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="225" y="499.066" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">H</text>
+  <rect x="43.65" y="360.147" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(248, 213, 14);"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; font-weight: 700; white-space: pre; stroke-width: 1;" x="54.237" y="536.777" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Alarm Info</text>
+  <rect x="126.341" y="360.147" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="159.3" y="537.792" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5501">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="225.25" y="537.752" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">H</text>
+  <rect x="43.443" y="160.275" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; stroke-width: 1; font-weight: bold;" x="56.987" y="250.585" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">RT or LT Dry</text>
+  <rect x="126.135" y="160.275" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="180.05" y="251.6" transform="matrix(0.826913, 0, 0, 0.698383, -3.902357, 3.138935)" id="c_5022">#######</text>
+  <rect x="43.443" y="187.715" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 13px; stroke-width: 1; font-weight: bold;" x="53.987" y="288.876" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Opmode</text>
+  <rect x="126.135" y="187.715" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="183.349" y="288.807" transform="matrix(0.826913, 0, 0, 0.698383, 0.097643, 3.138935)" id="c_5015">#####</text>
+  <rect x="43.443" y="214.051" width="165.383" height="27.103" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 13px; font-weight: 700; white-space: pre; stroke-width: 1;" x="53.987" y="322.585" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Step</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="233" y="323.56" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">s</text>
+  <rect x="43.443" y="241.422" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; font-weight: 700; white-space: pre; stroke-width: 1;" x="54.237" y="364.271" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Cycle Timer</text>
+  <rect x="126.341" y="241.068" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="225.25" y="365.246" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">s</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 13px; font-weight: 700; white-space: pre; stroke-width: 1;" x="141.894" y="324.069" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Time</text>
+  <rect x="870.356" y="142.816" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; stroke-width: 1; font-weight: bold;" x="1060.06" y="224.103" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Dryer Status</text>
+  <rect x="870.356" y="170.304" width="82.691" height="42.35" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="911.702" cy="192.401" rx="20.673" ry="17.46"/>
+  <rect x="870.356" y="230.113" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; stroke-width: 1; font-weight: bold;" x="1069.06" y="349.103" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Shutdown</text>
+  <rect x="870.356" y="257.602" width="82.691" height="42.35" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="911.702" cy="279.699" rx="20.673" ry="17.46"/>
+  <rect x="870.356" y="317.411" width="82.691" height="27.103" style="stroke: rgb(0, 0, 0); fill: rgb(120, 231, 228); stroke-width: 0.763;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; stroke-width: 1; font-weight: bold;" x="1059.06" y="474.103" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">Alarm Status</text>
+  <rect x="870.356" y="344.9" width="82.691" height="42.35" style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(244, 248, 248);"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="911.702" cy="366.997" rx="20.673" ry="17.46"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; stroke-width: 1; font-weight: bold;" x="380.451" y="296.591" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">REGEN</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; stroke-width: 1; font-weight: bold;" x="379.214" y="423.395" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">DRYING</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; stroke-width: 1; font-weight: bold;" x="897.237" y="299.014" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">REGEN</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 14px; stroke-width: 1; font-weight: bold;" x="896" y="425.818" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">DRYING</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Bahnschrift; font-size: 35px; stroke-width: 1; font-weight: bold;" x="348.875" y="78.242" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)">AIR DRYER UNIT B (01-CL-10535-B)</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="522.447" y="617.288" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5005">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="522.446" y="567.288" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5004">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="653.279" y="373.97" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5001">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="563.75" y="373.795" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5002">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; stroke-width: 1;" x="564.279" y="330.561" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5003">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="159.05" y="424.106" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5009">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="159.05" y="463.397" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5010">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="159.05" y="499.106" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5011">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="177.05" y="323.6" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5008">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="168.775" y="365.807" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5007">####.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15px; stroke-width: 1;" x="92.151" y="325.554" transform="matrix(0.826913, 0, 0, 0.698383, 2.097643, 3.138935)" id="c_5006">##</text>
+  <ellipse style="fill: rgb(255, 204, 63); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="336.418" cy="237.517" rx="13.582" ry="12.517" id=""/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0.763; fill: rgb(255, 172, 63);" cx="640.283" cy="271.689" rx="9.717" ry="7.689" id="c_5019"/>
+  <ellipse style="fill: rgb(63, 255, 69); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="911.254" cy="192.696" rx="20.673" ry="17.46" id="c_5016"/>
+  <ellipse style="fill: rgb(255, 159, 63); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="911.352" cy="279.12" rx="20.673" ry="17.46" id="c_5017"/>
+  <ellipse style="fill: rgb(255, 63, 63); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="911.352" cy="366.862" rx="20.673" ry="17.46" id="c_5020"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="336.418" cy="237.483" rx="13.582" ry="12.517" id="c_5018"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="762.96" cy="322.354" rx="13.582" ry="12.517" id="c_5018"/>
+  <ellipse style="fill: rgb(255, 204, 63); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="335.418" cy="321.016" rx="13.582" ry="12.517" id="c_5021"/>
+  <ellipse style="fill: rgb(255, 204, 63); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="761.772" cy="233.876" rx="13.582" ry="12.517" id="c_5021"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="335.418" cy="320.662" rx="13.582" ry="12.517"/>
+  <ellipse style="fill: rgb(255, 204, 63); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="763.418" cy="322.125" rx="13.582" ry="12.517"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.763;" cx="761.418" cy="234.26" rx="13.582" ry="12.517"/>
+</svg>

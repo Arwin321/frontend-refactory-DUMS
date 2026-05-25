@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 2750 1600" version="1.1" id="svg2113" xmlns="http://www.w3.org/2000/svg"
+  xmlns:bx="https://boxy-svg.com">
+  <defs id="defs1583">
+    <bx:grid x="0" y="0" width="62.847" height="59.308" />
+  </defs>
+  <rect width="2765.268" height="1601.316" style="fill: rgb(249, 249, 249); stroke: rgb(0, 0, 0);" id="rect1585" />
+  <g transform="matrix(3.756041, 0, 0, 3.411999, -325.08066, -171.136964)" style="" id="g1595">
+    <rect x="111.721" y="167.133" width="2.541" height="6.598" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      id="rect1587" />
+    <rect x="111.373" y="178.442" width="2.889" height="6.598" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      id="rect1589" />
+    <rect x="111.373" y="190.204" width="2.889" height="6.598" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      id="rect1591" />
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      d="M 105.737 163.995 L 103.281 166.267 L 103.337 197.271 L 105.513 200 L 109.364 200 L 111.373 197.271 C 111.373 197.271 111.3 166.386 111.3 166.355 C 111.3 166.325 109.158 163.986 109.158 163.986 L 105.737 163.995 Z"
+      id="path1593" />
+  </g>
+  <rect x="221.266" y="4276.899" height="719.302"
+    style="fill: rgb(216, 216, 216); stroke: rgb(255, 230, 0); transform-box: fill-box; transform-origin: 50% 50%;"
+    transform="matrix(0, -1, 1, 0, 241.54927, -4187.271127)" width="1.854" id="rect1597" />
+  <g style="" transform="matrix(1.967086, 0, 0, 2.764776, 8.509805, 20.443167)" id="g1605">
+    <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 1;"
+      d="M 160.097 163.649 L 200 148.321 L 200 163.649 L 160.097 148.321 L 160.097 163.649 Z" id="path1599" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1; transform-origin: 180.051px 148.792px;"
+      d="M 180.051 155.918 L 180.051 141.666" id="path1601" />
+    <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 1;"
+      d="M 180.091 141.868 L 163.816 141.868 L 163.902 140.59 L 164.165 139.38 L 164.515 138.17 L 165.127 137.028 L 165.827 135.952 L 166.614 134.944 L 167.578 133.934 L 168.627 133.061 L 169.764 132.255 L 170.99 131.582 L 172.39 130.909 L 173.79 130.439 L 175.277 129.968 L 176.853 129.699 L 178.428 129.497 L 180.091 129.431 L 181.754 129.497 L 183.415 129.699 L 184.904 129.968 L 186.478 130.439 L 187.879 130.909 L 189.191 131.582 L 190.416 132.255 L 191.642 133.061 L 192.692 133.934 L 193.567 134.944 L 194.441 135.952 L 195.054 137.028 L 195.666 138.17 L 196.017 139.38 L 196.279 140.59 L 196.366 141.868 L 180.091 141.868 Z"
+      id="path1603" />
+  </g>
+  <rect x="570.504" y="312.334" width="1.617" height="134.41"
+    style="fill: rgb(216, 216, 216); stroke: rgb(255, 230, 0); transform-origin: 571.311px 379.538px;" id="rect1607" />
+  <rect x="192.153" y="622.531" width="170.94" height="200.351" style="fill: rgb(179, 179, 179); stroke: rgb(0, 0, 0);"
+    id="rect1609" />
+  <rect x="363.093" y="636.243" width="11.348" height="175.002" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1611" />
+  <rect x="1311.745" y="222.133" width="24.158" height="66.668"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;"
+    transform="matrix(0, 1, -1, 0, -916.048411, 468.548218)" id="rect1613" />
+  <g transform="matrix(1.967086, 0, 0, 2.255241, -84.857842, 158.144456)" id="g1627">
+    <rect x="-270.583" y="233.554" width="2.468" height="4.532" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 0, 0)" id="rect1615" />
+    <rect x="-271.043" y="248.421" width="2.928" height="4.29" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 0, 0)" id="rect1617" />
+    <rect x="207.97" y="-262.356" width="2.928" height="4.551" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 479.012726, 525.711979)" id="rect1619" />
+    <path style="fill: rgb(5, 121, 40); stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;"
+      d="M 274.287 273.087 L 271.043 270.353 L 271.117 233.051 L 273.991 229.767 L 279.077 229.767 L 281.731 233.051 C 281.731 233.051 281.634 270.21 281.634 270.248 C 281.634 270.284 278.805 273.098 278.805 273.098 L 274.287 273.087 Z"
+      transform="matrix(-1, 0, 0, -1, 0.000001, 0.000002)" id="path1621" />
+    <rect x="270.583" y="-241.384" width="2.468" height="4.451" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 541.166016, 482.768005)" id="rect1623" />
+    <rect x="-270.583" y="255.823" width="2.468" height="4.658" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 0, 0)" id="rect1625" />
+  </g>
+  <rect x="1814.407" y="219.287" width="36.797" height="68.004"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1832.81px 253.29px;"
+    transform="matrix(0, 1, -1, 0, -1263.114954, 471.648948)" id="rect1629" />
+  <g transform="matrix(-1.967086, 0, 0, 2.255241, 1061.308724, 158.144456)" style="" id="g1643">
+    <rect x="-270.583" y="233.554" width="2.468" height="4.532" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 0, 0)" id="rect1631" />
+    <rect x="-271.043" y="248.421" width="2.928" height="4.29" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 0, 0)" id="rect1633" />
+    <rect x="207.97" y="-262.356" width="2.928" height="4.551" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 479.012726, 525.711979)" id="rect1635" />
+    <path style="fill: rgb(5, 121, 40); stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;"
+      d="M 274.287 273.087 L 271.043 270.353 L 271.117 233.051 L 273.991 229.767 L 279.077 229.767 L 281.731 233.051 C 281.731 233.051 281.634 270.21 281.634 270.248 C 281.634 270.284 278.805 273.098 278.805 273.098 L 274.287 273.087 Z"
+      transform="matrix(-1, 0, 0, -1, 0.000001, 0.000002)" id="path1637" />
+    <rect x="270.583" y="-241.384" width="2.468" height="4.451" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 541.166016, 482.768005)" id="rect1639" />
+    <rect x="-270.583" y="255.823" width="2.468" height="4.658" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+      transform="matrix(-1, 0, 0, 1, 0, 0)" id="rect1641" />
+  </g>
+  <rect x="603.693" y="580.559" width="11.348" height="284.474" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1645" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;"
+    d="M 507.186 740.424 L 550.252 704.131 L 722.03 703.268 L 765.747 740.642 L 507.186 740.424 Z" id="path1647"
+    transform="matrix(0, 0.872229, -1.146488, 0, -0.000028, 0.000006)" />
+  <rect x="657.992" y="580.559" width="34.149" height="284.474" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1649" />
+  <rect x="671.676" y="142.765" width="12.37" height="42.847"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 677.862px 164.189px;"
+    transform="matrix(0, 1, -1, 0, -41.394006, 438.822517)" id="rect1651" />
+  <rect x="671.676" y="142.765" width="12.37" height="42.849"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 677.862px 164.191px;"
+    transform="matrix(0, 1, -1, 0, -41.395654, 676.71634)" id="rect1653" />
+  <rect x="671.676" y="142.759" width="12.37" height="42.847"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 677.862px 164.183px;"
+    transform="matrix(0, 1, -1, 0, -41.393823, 469.979671)" id="rect1655" />
+  <rect x="671.676" y="142.763" width="12.37" height="42.849"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 677.862px 164.189px;"
+    transform="matrix(0, 1, -1, 0, -41.396143, 640.873796)" id="rect1657" />
+  <rect x="692.141" y="609.194" width="11.348" height="225.524" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1659" />
+  <rect x="703.489" y="627.978" width="78.52" height="190.076" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1661" />
+  <rect x="734.874" y="627.978" width="11.348" height="190.076" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1663" />
+  <rect x="782.009" y="580.559" width="84.791" height="284.474" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1665" />
+  <rect x="912.958" y="653.978" width="34.351" height="142.639" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1667" />
+  <rect x="387.88" y="481.524" width="3.04" height="170.655" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(0.998593, -0.053021, 0, 1.001409, 560.055851, 178.939058)" id="rect1669" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;"
+    d="M 726.028 743.604 L 808.32 701.986 L 970.629 701.986 L 1052.174 743.604 L 726.028 743.604 Z" id="path1671"
+    transform="matrix(0, 0.872229, -1.146488, 0, -0.00006, -0.000073)" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 966.433px 728.04px;"
+    d="M 851.71 741.93 L 909.604 714.15 L 1023.79 714.15 L 1081.159 741.93 L 851.71 741.93 Z" id="path1673"
+    transform="matrix(0, 0.872229, -1.146488, 0, 0.00001, 0.000013)" />
+  <rect x="780.851" y="481.524" width="6.12" height="170.655" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(0.998593, -0.053021, 0, 1.001409, 202.605928, 199.545717)" id="rect1675" />
+  <rect x="989.142" y="656.234" width="44.023" height="142.639" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1677" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1040.14px 723.043px;"
+    d="M 839.576 716.183 L 884.529 729.902 L 1200.198 729.902 L 1240.694 716.272 L 839.576 716.183 Z" id="path1679"
+    transform="matrix(0, 0.872229, -1.146488, 0, -0.000087, -0.000004)" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    d="M 1048.001 548.108 L 1048.304 897.975 L 1207.093 897.975 L 1218.978 875.774 L 1219.181 569.45 L 1207.954 548.801 L 1048.001 548.108 Z"
+    id="path1681" />
+  <rect x="1219.18" y="568.827" width="27.547" height="308.201" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1683" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1250.61px 722.928px;"
+    d="M 1073.93 726.31 L 1113.529 719.546 L 1391.606 719.546 L 1427.277 726.267 L 1073.93 726.31 Z" id="path1685"
+    transform="matrix(0, 0.872229, -1.146488, 0, 0.000091, -0.000014)" />
+  <rect x="1254.482" y="596.467" width="44.499" height="254.908" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1687" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1475.41px 727.407px;"
+    d="M 1256.467 722.549 L 1278.178 732.178 L 1672.628 732.254 L 1694.355 722.901 L 1256.467 722.549 Z" id="path1689"
+    transform="matrix(0, 0.872229, -1.146488, 0, 0.000073, 0.000005)" />
+  <rect x="1298.981" y="568.827" width="44.499" height="308.201" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1691" />
+  <rect x="1343.481" y="596.824" width="44.499" height="254.908" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1693" />
+  <rect x="1387.98" y="596.824" width="21.872" height="254.908" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1695" />
+  <rect x="1409.852" y="596.824" width="44.499" height="254.908" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1697" />
+  <rect x="1454.351" y="520.549" width="15.503" height="409.931" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1699" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1486.54px 729.878px;"
+    d="M 1285.741 725.021 L 1305.656 734.65 L 1667.405 734.725 L 1687.333 725.373 L 1285.741 725.021 Z" id="path1701"
+    transform="matrix(0, 0.872229, -1.146488, 0, -0.000073, 0.000112)" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1497.66px 730.53px;"
+    d="M 1312.27 725.673 L 1330.659 735.302 L 1664.657 735.377 L 1683.056 726.025 L 1312.27 725.673 Z" id="path1703"
+    transform="matrix(0, 0.872229, -1.146488, 0, 0.000015, -0.000034)" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1508.79px 733.956px;"
+    d="M 1344.755 729.099 L 1361.021 738.727 L 1656.546 738.803 L 1672.82 729.45 L 1344.755 729.099 Z" id="path1705"
+    transform="matrix(0, 0.872229, -1.146488, 0, -0.000137, 0.000068)" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1519.91px 734.718px;"
+    d="M 1368.907 729.861 L 1383.883 739.49 L 1655.938 739.565 L 1670.927 730.213 L 1368.907 729.861 Z" id="path1707"
+    transform="matrix(0, 0.872229, -1.146488, 0, -0.000023, -0.000055)" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1531.04px 734.75px;"
+    d="M 1388.217 729.893 L 1402.375 739.521 L 1659.692 739.597 L 1673.869 730.244 L 1388.217 729.893 Z" id="path1709"
+    transform="matrix(0, 0.872229, -1.146488, 0, 0.000068, -0.000003)" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1542.17px 732.158px;"
+    d="M 1413.447 727.301 L 1426.21 736.93 L 1658.11 737.005 L 1670.886 727.653 L 1413.447 727.301 Z" id="path1711"
+    transform="matrix(0, 0.872229, -1.146488, 0, -0.000157, 0.000035)" />
+  <rect x="1547.735" y="619.886" width="16.773" height="224.545" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1713" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    d="M 1565.938 502.426 C 1565.938 502.426 1562.4376824661815 892.9090808121027 1566.214 945.552 C 1567.0379405282195 957.0379606625416 1565.9094864891053 963.619303438939 1569.212 966.433 C 1571.519042488712 968.3985687994298 1577.3044475621036 968.2986812007803 1579.505 966.259 C 1582.6326889892484 963.3599605027395 1580.896216996098 956.9246936747566 1581.431 945.552 C 1583.9015586930873 893.0131066227198 1585.3790228328503 546.5920914640369 1581.978 501.716 C 1581.3657807394668 493.6378397282225 1582.3293586890359 489.67728117870035 1579.793 487.501 C 1577.6385435938726 485.6524038423454 1571.744195211586 485.6529690725045 1569.416 487.501 C 1566.5866798051243 489.74680447459815 1565.938 502.426 1565.938 502.426 C 1565.9379999999999 502.42599999999993 1565.938 502.426 1565.938 502.426 C 1565.938 502.426 1565.9380000000003 502.4260000000001 1565.938 502.426"
+    id="path1715"
+    bx:d="M 1565.938 502.426 R 1566.214 945.552 R 1569.212 966.433 R 1579.505 966.259 R 1581.431 945.552 R 1581.978 501.716 R 1579.793 487.501 R 1569.416 487.501 R 1565.938 502.426 R 1565.938 502.426 Z 1@8154597a" />
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;"
+    d="M 1549.808 751.776 L 1677.314 751.035 C 1677.314 751.035 1677.314 726.268 1677.314 725.991 C 1677.314 725.714 1663.065 700.76 1663.065 700.76 L 1564.013 701.59 L 1549.107 726.268 L 1549.808 751.776 Z"
+    id="path1717" transform="matrix(0, 0.872229, -1.146488, 0, 0.000076, -0.000036)" />
+  <rect x="1632.876" y="655.365" width="9.58" height="142.788" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1719" />
+  <rect x="1660.461" y="596.755" width="5.046" height="48.404" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1721" transform="matrix(1, 0, 0, 1, -18.004511, 103.828065)" />
+  <rect x="1647.502" y="676.325" width="8.445" height="101.391" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1723" />
+  <rect x="1673.951" y="577.366" width="4.198" height="91.421" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1725" transform="matrix(1, 0, 0, 1, -18.004511, 103.828065)" />
+  <rect x="1660.144" y="684.807" width="85.36" height="79.267" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1727" />
+  <rect x="1795.977" y="604.057" width="14.617" height="26.594" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, -19.971598, 106.083306)" id="rect1729" />
+  <rect x="1749.438" y="661.186" width="24.897" height="132.31" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1731" />
+  <rect x="1757.53" y="559.76" width="10.489" height="12.88" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, -19.971598, 106.083306)" id="rect1733" />
+  <rect x="1763.434" y="611.146" width="10.487" height="12.88" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, -25.872856, 106.083306)" id="rect1735" />
+  <rect x="1763.432" y="661.737" width="10.487" height="12.88" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, -25.872856, 106.083306)" id="rect1737" />
+  <rect x="1365.579" y="186.044" width="1.963" height="36.402" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, 380.50336, 492.679508)" id="rect1739" />
+  <rect x="1689.88" y="573.855" width="1.395" height="35.82" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, 56.772358, 158.144456)" id="rect1741" />
+  <rect x="1797.053" y="559.491" width="10.489" height="12.88" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, -21.938683, 106.083306)" id="rect1743" />
+  <rect x="1800.989" y="610.877" width="10.487" height="12.88" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, -25.872856, 106.083306)" id="rect1745" />
+  <rect x="1793.121" y="661.469" width="10.487" height="12.88" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, -18.004511, 106.083306)" id="rect1747" />
+  <rect x="1791.424" y="672.34" width="7.064" height="236.318" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1749" />
+  <rect x="1798.487" y="655.365" width="131.944" height="264.986"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" id="rect1751" />
+  <rect x="1803.02" y="661.186" width="122.717" height="253.381" style="fill: rgb(246, 246, 246); stroke: rgb(0, 0, 0);"
+    id="rect1753" />
+  <g style="" transform="matrix(1.018862, 0, 0, 0.560739, 848.629096, 547.548161)" id="g1771">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1755" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1757" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1759" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1761" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1763" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1765" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1767" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1769" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.522625, 848.629096, 533.266483)" id="g1789">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1773" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1775" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1777" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1779" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1781" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1783" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1785" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1787" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.576848, 848.629096, 569.471135)" id="g1807">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1791" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1793" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1795" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1797" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1799" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1801" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1803" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1805" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.580201, 848.629096, 593.583928)" id="g1825">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1809" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1811" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1813" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1815" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1817" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1819" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1821" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1823" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.450487, 848.629096, 651.557073)" id="g1843">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1827" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1829" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1831" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1833" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1835" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1837" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1839" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1841" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.459332, 848.629096, 669.753301)" id="g1861">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1845" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1847" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1849" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1851" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1853" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1855" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1857" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1859" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.522625, 848.629096, 675.022405)" id="g1879">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1863" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1865" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1867" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1869" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1871" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1873" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1875" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1877" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.522625, 848.629096, 698.643987)" id="g1897">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1881" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1883" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1885" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1887" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1889" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1891" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1893" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1895" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.522625, 848.629096, 722.26563)" id="g1915">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1899" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1901" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1903" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1905" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1907" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1909" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1911" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1913" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.522625, 848.629096, 745.887152)" id="g1933">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1917" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1919" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1921" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1923" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1925" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1927" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1929" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1931" />
+  </g>
+  <g style="" transform="matrix(1.018862, 0, 0, 0.39464, 848.629096, 800.136481)" id="g1951">
+    <path style="fill: rgb(230, 230, 230); stroke: rgb(76, 76, 76); stroke-width: 2;"
+      d="M 989.672 289.959 L 989.672 244.761 L 1009.612 244.761 L 1009.612 289.959 L 989.672 289.959 Z" id="path1935" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 250.366 L 1009.612 250.366"
+      id="path1937" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 256.03 L 1009.612 256.03"
+      id="path1939" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 261.635 L 1009.612 261.635"
+      id="path1941" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 267.3 L 1009.612 267.3"
+      id="path1943" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 272.965 L 1009.612 272.965"
+      id="path1945" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 278.629 L 1009.612 278.629"
+      id="path1947" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 2;" d="M 989.672 284.234 L 1009.612 284.234"
+      id="path1949" />
+  </g>
+  <rect x="1816.162" y="699.155" width="19.366" height="49.631" style="fill: rgb(242, 189, 189); stroke: rgb(0, 0, 0);"
+    id="rect1953" />
+  <rect x="1888.417" y="699.155" width="19.366" height="49.631" style="fill: rgb(242, 189, 189); stroke: rgb(0, 0, 0);"
+    id="rect1955" />
+  <rect x="1785.603" y="716.96" width="126.859" height="12.88" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1957" />
+  <rect x="1930.432" y="670.354" width="7.064" height="236.318" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1959" />
+  <rect x="-1907.783" y="834.718" width="19.366" height="49.631" style="fill: rgb(242, 189, 189); stroke: rgb(0, 0, 0);"
+    transform="matrix(-1, 0, 0, 1, 0, 0)" id="rect1961" />
+  <rect x="-1853.532" y="730.89" width="19.366" height="49.631" style="fill: rgb(242, 189, 189); stroke: rgb(0, 0, 0);"
+    transform="matrix(-1, 0, 0, 1, -18.004396, 103.828089)" id="rect1963" />
+  <rect x="1937.985" y="839.138" width="100.302" height="40.159" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1965" />
+  <rect x="1937.985" y="846.571" width="24.897" height="24.625" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1967" />
+  <rect x="-1962.883" y="852.523" width="152.247" height="12.88" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(-1, 0, 0, 1, 0, 0)" id="rect1969" />
+  <rect x="1988.046" y="823.358" width="18.559" height="74.071" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1971" />
+  <rect x="987.703" y="358.288" width="5.256" height="7.21" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, 994.049751, 467.679142)" id="rect1973" />
+  <rect x="2070.573" y="748.65" width="5.254" height="7.21" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, -88.819611, 106.083306)" id="rect1975" />
+  <rect x="866.734" y="341.306" width="5.254" height="7.21" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, 1115.019173, 541.748722)" id="rect1977" />
+  <rect x="2038.287" y="839.138" width="38.832" height="40.159" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1979" />
+  <rect x="2077.119" y="665.843" width="20.987" height="357.686" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1981" />
+  <rect x="987.703" y="358.288" width="5.256" height="7.21" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, 1018.901741, 467.679142)" id="rect1983" />
+  <rect x="2136.735" y="748.65" width="5.254" height="7.21" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, -130.128419, 106.083306)" id="rect1985" />
+  <rect x="866.734" y="341.306" width="5.254" height="7.21" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(1, 0, 0, 1, 1139.873544, 541.748722)" id="rect1987" />
+  <rect x="2098.104" y="637.371" width="391.487" height="411.061"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" id="rect1989" />
+  <rect x="2509.225" y="839.136" width="38.832" height="40.159" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1991" />
+  <rect x="180.154" y="635.837" width="11.348" height="175.002" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1993" />
+  <rect x="2488.238" y="665.843" width="20.987" height="357.686" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    id="rect1995" />
+  <ellipse style="fill: rgb(16, 255, 40); stroke: rgb(0, 0, 0);" cx="2568.167" cy="859.043" rx="26.011" ry="30.315"
+    id="ellipse1997" />
+  <rect x="2750.419" y="-736.219" width="38.832" height="40.159" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"
+    transform="matrix(-1, 0, 0, 1, 5482.833562, 1576.26583)" id="rect1999" />
+  <rect x="2612.182" y="751.661" width="61.845" height="7.808" style="fill: rgb(16, 255, 40); stroke: rgb(0, 0, 0);"
+    id="rect2001" transform="matrix(1, 0, 0, 1, -18.004511, 103.828065)" />
+  <ellipse style="fill: rgb(16, 255, 40); stroke: rgb(0, 0, 0);" cx="2675.44" cy="859.952" rx="26.011" ry="30.315"
+    id="ellipse2003" />
+  <text
+    style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-weight: bold; font-size: 14px;"
+    x="108.414" y="257.057" id="text2017"
+    transform="matrix(1.967086, 0, 0, 2.255241, -18.004511, 103.828065)">STARTER</text>
+  <text
+    style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-weight: bold; font-size: 14px;"
+    x="1086.976" y="257.057" id="text2019"
+    transform="matrix(1.967086, 0, 0, 2.255241, -18.004511, 103.828065)">GENERATOR</text>
+  <g style="" transform="matrix(1.967086, 0, 0, 2.764776, 508.468418, 20.443167)" id="start">
+    <path style="stroke: rgb(76, 76, 76); stroke-width: 1; fill: rgb(114, 182, 33);"
+      d="M 160.097 163.649 L 200 148.321 L 200 163.649 L 160.097 148.321 L 160.097 163.649 Z" id="path2021" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1; transform-origin: 180.051px 148.792px;"
+      d="M 180.051 155.918 L 180.051 141.666" id="path2023" />
+    <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 1;"
+      d="M 180.091 141.868 L 163.816 141.868 L 163.902 140.59 L 164.165 139.38 L 164.515 138.17 L 165.127 137.028 L 165.827 135.952 L 166.614 134.944 L 167.578 133.934 L 168.627 133.061 L 169.764 132.255 L 170.99 131.582 L 172.39 130.909 L 173.79 130.439 L 175.277 129.968 L 176.853 129.699 L 178.428 129.497 L 180.091 129.431 L 181.754 129.497 L 183.415 129.699 L 184.904 129.968 L 186.478 130.439 L 187.879 130.909 L 189.191 131.582 L 190.416 132.255 L 191.642 133.061 L 192.692 133.934 L 193.567 134.944 L 194.441 135.952 L 195.054 137.028 L 195.666 138.17 L 196.017 139.38 L 196.279 140.59 L 196.366 141.868 L 180.091 141.868 Z"
+      id="path2025" />
+  </g>
+  <rect x="221.413" y="1002.801" width="1.854" height="168.654"
+    style="fill: rgb(216, 216, 216); stroke: rgb(255, 230, 0); transform-origin: 222.34px 1087.13px;"
+    transform="matrix(0, -1, 1, 0, 763.873214, -637.849971)" id="rect2029" />
+  <rect x="374.641" y="101.049" width="0.825" height="198.326"
+    style="fill: rgb(216, 216, 216); stroke: rgb(255, 230, 0); transform-origin: 375.053px 200.208px;"
+    transform="matrix(0, 1, -1, 0, 294.61756, 111.712623)" id="rect2031" />
+  <g transform="matrix(1.967086, 0, 0, 2.255241, -488.110508, 103.828065)" id="g2039">
+    <path style="fill: rgb(192, 192, 192); stroke: rgb(76, 76, 76); stroke-width: 1;"
+      d="M 567.451 100 L 600 85.62 L 600 100 L 567.451 85.62 L 567.451 100 Z" id="path2033" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1;" d="M 583.725 92.747 L 583.725 77.736"
+      id="path2035" />
+    <path style="fill: rgb(192, 192, 192); stroke: rgb(76, 76, 76); stroke-width: 1;"
+      d="M 570.306 68.59 L 597.145 68.59 L 597.145 77.736 L 570.306 77.736 L 570.306 68.59 Z" id="path2037" />
+  </g>
+  <rect x="767.213" y="177.924" width="1.617" height="134.41"
+    style="fill: rgb(216, 216, 216); stroke: rgb(255, 230, 0); transform-origin: 768.019px 245.128px;" id="rect2041" />
+  <rect x="1070.54" y="448.35" height="97.503"
+    style="fill: rgb(216, 216, 216); stroke: rgb(255, 230, 0); transform-origin: 1071.58px 497.101px;" width="2.089"
+    id="rect2043" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="724.999" y1="710.607" x2="416.261" y2="944.343"
+    id="line2045" />
+  <rect x="276.022" y="952.397" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2047" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="173.639"
+    y="385.601" id="val_pt008a" transform="matrix(1.967086, 0, 0, 2.255241, -60.004517, 120.828065)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="158.322"
+    y="487.153" id="text2051" transform="matrix(1.967086, 0, 0, 2.255241, -52.444386, 79.824853)">01-PT008-A</text>
+  <rect x="279.22" y="1190.531" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2053" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="171.889"
+    y="502.901" id="val_zt002" transform="matrix(1.967086, 0, 0, 2.255241, -54.735848, 94.476006)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="159.616"
+    y="369.076" id="text2057" transform="matrix(1.967086, 0, 0, 2.255241, -44.004513, 105.828065)">01-ZT002</text>
+  <rect x="522.842" y="951.928" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2059" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="277.994"
+    y="384.55" id="text2061" transform="matrix(1.967086, 0, 0, 2.255241, -19.693392, 121.658036)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="261.191"
+    y="368.446" id="text2063" transform="matrix(1.967086, 0, 0, 2.255241, -3.615977, 109.752755)">01-TE014-A</text>
+  <rect x="524.88" y="1071.852" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2065" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="276.954"
+    y="443.949" id="text2067" transform="matrix(1.967086, 0, 0, 2.255241, -13.004511, 107.828065)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="260.151"
+    y="427.845" id="text2069" transform="matrix(1.967086, 0, 0, 2.255241, -5.004511, 98.828065)">01-TE014-B</text>
+  <rect x="761.776" y="952.548" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2071" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="380.973"
+    y="384.641" id="text2073" transform="matrix(1.967086, 0, 0, 2.255241, 18.995489, 121.828065)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="364.17"
+    y="368.537" id="text2075" transform="matrix(1.967086, 0, 0, 2.255241, 37.810299, 111.378892)">01-TE015-A</text>
+  <rect x="761.73" y="1070.507" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2077" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="379.933"
+    y="444.04" id="text2079" transform="matrix(1.967086, 0, 0, 2.255241, 20.995489, 106.828065)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="363.13"
+    y="427.936" id="text2081" transform="matrix(1.967086, 0, 0, 2.255241, 43.995491, 98.828065)">01-TE015-B</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="263.902"
+    y="487.153" id="text2083" transform="matrix(1.967086, 0, 0, 2.255241, -13.004511, 83.828065)">01-PT008-B</text>
+  <rect x="523.636" y="1188.88" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2085" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="277.469"
+    y="502.901" id="text2087" transform="matrix(1.967086, 0, 0, 2.255241, -16.004511, 92.828065)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="366.542"
+    y="487.153" id="text2089" transform="matrix(1.967086, 0, 0, 2.255241, 37.144352, 81.927483)">01-PT008-C</text>
+  <rect x="763.687" y="1188.982" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2091" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="380.109"
+    y="502.901" id="text2093" transform="matrix(1.967086, 0, 0, 2.255241, 19.144352, 91.927483)">###.##</text>
+  <rect x="1065.115" y="713.167" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2095" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="564.157"
+    y="282.044" id="text2097" transform="matrix(1.967086, 0, 0, 2.255241, -36.004513, 115.828065)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="554.354"
+    y="265.94" id="text2099" transform="matrix(1.967086, 0, 0, 2.255241, -32.004513, 95.828065)">01-KT001</text>
+  <rect x="1519.433" y="431.199" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2101" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="786.983"
+    y="157.016" id="text2103" transform="matrix(1.967086, 0, 0, 2.255241, -22.004511, 114.828065)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="770.18"
+    y="140.912" id="text2105" transform="matrix(1.967086, 0, 0, 2.255241, -2.004511, 91.828065)">01-PDT007</text>
+  <rect x="1517.328" y="300.54" width="131" height="51" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0);"
+    id="rect2107" />
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px;" x="785.777"
+    y="104.795" id="text2109" transform="matrix(1.967086, 0, 0, 2.255241, -22.004511, 101.828065)">###.##</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 17px;" x="774.974"
+    y="88.691" id="text2111" transform="matrix(1.967086, 0, 0, 2.255241, -12.112564, 88.3145)">01-TE019</text>
+  <g style="" transform="matrix(1.967086, 0, 0, 2.764776, 509.086395, 21.011166)" id="stop">
+    <path style="stroke: rgb(76, 76, 76); stroke-width: 1; fill: rgb(224, 38, 38);"
+      d="M 160.097 163.649 L 200 148.321 L 200 163.649 L 160.097 148.321 L 160.097 163.649 Z" id="path-1" />
+    <path style="fill: none; stroke: rgb(76, 76, 76); stroke-width: 1; transform-origin: 180.051px 148.792px;"
+      d="M 180.051 155.918 L 180.051 141.666" id="path-2" />
+    <path style="fill: rgb(255, 255, 255); stroke: rgb(76, 76, 76); stroke-width: 1;"
+      d="M 180.091 141.868 L 163.816 141.868 L 163.902 140.59 L 164.165 139.38 L 164.515 138.17 L 165.127 137.028 L 165.827 135.952 L 166.614 134.944 L 167.578 133.934 L 168.627 133.061 L 169.764 132.255 L 170.99 131.582 L 172.39 130.909 L 173.79 130.439 L 175.277 129.968 L 176.853 129.699 L 178.428 129.497 L 180.091 129.431 L 181.754 129.497 L 183.415 129.699 L 184.904 129.968 L 186.478 130.439 L 187.879 130.909 L 189.191 131.582 L 190.416 132.255 L 191.642 133.061 L 192.692 133.934 L 193.567 134.944 L 194.441 135.952 L 195.054 137.028 L 195.666 138.17 L 196.017 139.38 L 196.279 140.59 L 196.366 141.868 L 180.091 141.868 Z"
+      id="path-3" />
+  </g>
+</svg>
